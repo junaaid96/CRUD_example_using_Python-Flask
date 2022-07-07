@@ -17,4 +17,4 @@ Now run/execute the `waitress_server.py` file:
 python waitress_server.py
 ```
 
-Credit: Thanks to Megamind Bhai from RichIT for the boilerplate 
+Credit: Thanks to Megamind Bhai from RichIT for the boilerplate.
